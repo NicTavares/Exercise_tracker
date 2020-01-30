@@ -82,7 +82,7 @@ export default class EditExercise extends Component {
             description: this.state.description,
             duration: this.state.duration,
             date: this.state.date
-        }
+        };
 
         console.log(exercise);
 
